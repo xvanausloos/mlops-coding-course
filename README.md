@@ -1,5 +1,7 @@
 # MLOps Coding Course
 
+Forked by La Donnée Intelligente on 2 Jan 2025
+
 **Welcome to the [MLOps Coding Course](https://mlops-coding-course.fmind.dev/)!**
 
 This course is designed to dive deep into the intersection of software development and data science, focusing on the practical applications of machine learning (ML) and artificial intelligence (AI) projects using Python.
